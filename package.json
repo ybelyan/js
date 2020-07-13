@@ -1,0 +1,23 @@
+{
+  "name": "js_course",
+  "version": "1.0.0",
+  "description": "js training project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"js training project\"",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ybelyan/js.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Yulia Filinskikh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ybelyan/js/issues"
+  },
+  "homepage": "https://github.com/ybelyan/js#readme"
+}
